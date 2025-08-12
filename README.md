@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anima..</h1>
 
-<h3 align="center">A passionate 21y/o developer from New Zealand</h3>
+<h3 align="center">A passionate developer from New Zealand</h3>
 
 <!--
 **animafps/animafps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [teres](https://github.com/animafps/teres)
+- 🔭 I’m currently working on [rustsynth](https://github.com/animafps/rustsynth)
 - 🌱 I’m currently learning **Rust**
 - 📰 Blog/Articles: https://anima.nz
 - 📫 How to reach me: contact@anima.nz
